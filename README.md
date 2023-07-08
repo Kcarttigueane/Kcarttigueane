@@ -35,15 +35,3 @@ I'm a third-year student at Epitech Technology, Lyon, pursuing my passion for te
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logoColor=white)
 
 </div>
-
-<div align="center">
-
-# 📊 GitHub Stats:
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=Kcarttigueane&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kcarttigueane&theme=graywhite&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kcarttigueane&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
